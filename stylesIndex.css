@@ -1,0 +1,10 @@
+.ep-btn{
+min-width: 100%;
+    border-radius: 20px;
+
+}
+.ep-btn:hover{
+    background: #7a672e;
+
+
+}
