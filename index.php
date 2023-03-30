@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Portfolio</title>
 </head>
-<body>
+<body style="background: #e8edf9">
 <header>
     <!--    -----------------------------
                 La navbar
@@ -43,23 +43,18 @@
     </nav>
 
 </header>
-<div>
 
-    <p style="background-color: #FFB116">.</p>
-    <p style="background-color: #FC9100">.</p>
-    <p style="background-color: #003051">.</p>
-    <p style="background-color: #004792">.</p>
-    <p style="background-color: #3f7caf">.</p>
-    <p style="background-color: #7a672e">.</p>
-    <p style="background-color: #0f1c3c">.</p>
-    <p style="background-color: #244269">.</p>
-    <p style="background-color: #e8edf9">.</p>
 
-</div>
 <section id="Qui suis-je ?">
 <div>
-    <h2>Qui suis-je ?</h2>
-    <p></p>
+    <h2 class="border-double d-flex justify-content-center mx-5 p-2">Bienvenue sur mon portfolio</h2><br><br>
+    <p class="border-double col-6 mx-auto p-5">Je m'appelle Romain FERREIRA, je suis né à Besançon le 15 février 2002 et j'habite à Vaire.
+        <br><br>
+        Je suis actuellement en deuxième année de BTS SIO.
+        <br><br>
+        J'adore le développement et souhaite poursuivre une carrière de développeur logiciel.
+<br><br>
+        J'aime beaucoup l'animation et le dessin, ainsi que l'industrie de ces médias.</p>
 </div>
 </section>
 

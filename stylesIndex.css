@@ -1,3 +1,14 @@
+.test{
+background-color: #FFB116;
+    background-color: #FC9100;
+    background-color: #003051;
+    background-color: #004792;
+    background-color: #3f7caf;
+    background-color: #7a672e;
+    background-color: #0f1c3c;
+    background-color: #244269;
+    background-color: #e8edf9;
+}
 .ep-btn{
 min-width: 100%;
     border-radius: 20px;
@@ -5,6 +16,15 @@ min-width: 100%;
 }
 .ep-btn:hover{
     background: #7a672e;
+}
 
-
+.border-double{
+    border-top: 8px double #003051;
+    border-right: 8px double #003051;
+    border-bottom: 8px double #003051;
+    border-left: 8px double #003051;
+    border-radius: 20px;
+    box-shadow: 0px 5px 8px 1px rgba(11, 21, 44, 0.42);
+    background: #ffffff;
+    color: #003051;
 }
